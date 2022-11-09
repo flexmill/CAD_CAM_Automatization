@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 29 13:41:20 2022
-
 @author: j.erlacher
 """
 
