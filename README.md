@@ -1,2 +1,3 @@
 # CAD_CAM_Automatization
-Automatization of the CAD and CAM process to generate 3D models, drawings and NC code for machining automatically
+Automatization of the CAD and CAM process to generate 3D models, drawings and NC code for machining automatically.
+This software package is not directly connected to Fiware and Ramp and developed within the DIH2 programme for the automatization of manufacturing and engineering prcesses in an agile manner. The code can be used for further development and if required configurations to parts of interest can be performed. The code can be copmiled and run in standard IDEs supporting Python language. A main requirement is the use of CATIA V5 as CAD software. If required it can be adapted to further CAD software.
